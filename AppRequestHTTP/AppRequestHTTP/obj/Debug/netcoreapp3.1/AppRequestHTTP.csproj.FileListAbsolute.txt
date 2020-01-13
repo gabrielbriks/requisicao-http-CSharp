@@ -1,0 +1,13 @@
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\bin\Debug\netcoreapp3.1\AppRequestHTTP.exe
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\bin\Debug\netcoreapp3.1\AppRequestHTTP.deps.json
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\bin\Debug\netcoreapp3.1\AppRequestHTTP.runtimeconfig.json
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\bin\Debug\netcoreapp3.1\AppRequestHTTP.runtimeconfig.dev.json
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\bin\Debug\netcoreapp3.1\AppRequestHTTP.dll
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\bin\Debug\netcoreapp3.1\AppRequestHTTP.pdb
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\obj\Debug\netcoreapp3.1\AppRequestHTTP.csprojAssemblyReference.cache
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\obj\Debug\netcoreapp3.1\AppRequestHTTP.AssemblyInfoInputs.cache
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\obj\Debug\netcoreapp3.1\AppRequestHTTP.AssemblyInfo.cs
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\obj\Debug\netcoreapp3.1\AppRequestHTTP.dll
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\obj\Debug\netcoreapp3.1\AppRequestHTTP.pdb
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gabriel.morais\source\repos\AppRequestHTTP\AppRequestHTTP\obj\Debug\netcoreapp3.1\AppRequestHTTP.csproj.CopyComplete
